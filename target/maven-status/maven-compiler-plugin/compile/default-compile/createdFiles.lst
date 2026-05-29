@@ -1,0 +1,6 @@
+com\taller\dto\service\UsuarioService.class
+com\taller\dto\dto\UsuarioDTO.class
+com\taller\dto\entity\Usuario.class
+com\taller\dto\repository\UsuarioRepository.class
+com\taller\dto\TallerDtoApplication.class
+com\taller\dto\controller\UsuarioController.class
